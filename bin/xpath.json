@@ -1,0 +1,34 @@
+{
+ "xpath" : "//*[@id='hd']/div[5]/ul/li[2]/div/a/span",
+ "name"  :  "emailOrMobile",
+ "sendkeys" : "hiddeneye60@gmail.com" ,
+ "passwd" : "b2c_password" ,
+ "data" : "hidden@123",
+ 
+ "topuphead" :"//a[@href='https://in.via.com/viacard?action1=TRSRC']",
+ "areadropdown": "circle",
+ "area" : "OR",
+ 
+"operator" : "operator1",
+
+"proceed" : "b2c_buttonImgSrch",
+"amount" : "amountToCharge",
+"money" : "200",
+
+"procedd" : "//div[@id='denominationsHolderDiv']//input[@class='b2c_buttonImgSrch']",
+
+"Mobileno": "mobileNo",
+"number" : "9437805004"
+
+"button" : "//input[@id='mobileNo']//ancestor::tr//following-sibling::tr[2]//input",
+"topupbooking" : "//*[@id='topupBookingForm']/table[2]/tbody/tr[3]/td//input",
+"confirm": "html/body/div[15]/div/div/div/div[2]/a[1]/span",
+
+
+
+
+
+ 
+
+ 
+}  
